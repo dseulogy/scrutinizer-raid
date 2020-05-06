@@ -1,0 +1,22 @@
+## Title: scrutinizer
+## Version: 4.1 Beta
+## Notes: damagemeter+healmeter+skillviewer
+## Author: NashaRiochtDE
+## Update: .PlayerNet Games Team & Nadana
+
+main.lua
+detail.lua
+utilities.lua
+colors.lua
+options.lua
+reset.lua
+send.lua
+slash.lua
+tooltips.lua
+bossids.lua
+
+templates.xml
+mainframe.xml
+detailframe.xml
+sendto.xml
+submit.xml
